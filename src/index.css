@@ -9,6 +9,7 @@ body {
   max-width: 1440px;
   background-color:#3a4764;
   height:100vh;
+  margin:auto;
 }
 #light.display{
   background-color:#d3d3d3;
