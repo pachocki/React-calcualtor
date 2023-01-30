@@ -10,3 +10,4 @@ A simple calculator built using React.js
 
 # Full website image 
 ![Website](https://github.com/pachocki/react-calculator/blob/main/src/components/calculator.png)
+![Website](https://github.com/pachocki/react-calculator/blob/main/src/components/calculator1.png)
